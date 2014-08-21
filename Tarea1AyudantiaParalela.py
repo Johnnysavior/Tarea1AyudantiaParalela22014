@@ -1,12 +1,12 @@
 # -*- coding: cp1252 -*-
 """
 
-Tarea 1 Ayudantia Computación Paralela Segundo Semestre 2014. Problema 3:
+Tarea 1 Ayudantia ComputaciÃ³n Paralela Segundo Semestre 2014. Problema 3:
 The prime factors of 13195 are 5, 7, 13 and 29.
 What is the largest prime factor of the number 600851475143 ?
 
-Integrantes: Jonathan León S. (johnnysavior)
-             Juan Cortez G. (github de juan)
+Integrantes: Jonathan LeÃ³n S. (johnnysavior)
+             Juan Cortez G. (juannmmaa)
              Christopher Salvatierra L. (github de christopher)
              Felipe Alvarez R. (github de pelao)
 """

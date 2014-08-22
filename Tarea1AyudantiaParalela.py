@@ -7,7 +7,7 @@ What is the largest prime factor of the number 600851475143 ?
 
 Integrantes: Jonathan León S. (johnnysavior)
              Juan Cortez G. (juannmmaa)
-             Christopher Salvatierra L. (github de christopher)
+             Christopher Salvatierra L. (Chris2141)
              Felipe Alvarez R. (github de pelao)
 """
 #declaramos nuestro primer numero divisor
